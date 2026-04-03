@@ -1,0 +1,10 @@
+generate:
+  - types
+  - client
+
+accessModifier: public
+namingStrategy: idiomatic
+
+nameOverrides:
+    'reactions-+1': reactionsThumbsUp
+    'reactions--1': reactionsThumbsDown
