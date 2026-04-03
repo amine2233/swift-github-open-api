@@ -122,3 +122,8 @@ This is an auto-generated library. To contribute:
 - [Swift OpenAPI Generator](https://github.com/apple/swift-openapi-generator)
 - [GitHub REST API Documentation](https://docs.github.com/en/rest)
 - [GitHub REST API Description](https://github.com/github/rest-api-description)
+- [Curated client library (Example)](https://github.com/apple/swift-openapi-generator/tree/main/Examples/curated-client-library-example)
+
+## Alternative
+
+- [GitHub's REST API Swift Language Code](https://github.com/wei18/github-rest-api-swift-openapi)
